@@ -1,20 +1,7 @@
-{
-  "name": "sample-cost-app",
-  "version": "1.0.0",
-  "private": true,
-  "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start"
-  },
-  "dependencies": {
-    "next": "latest",
-    "react": "latest",
-    "react-dom": "latest"
-  },
-  "devDependencies": {
-    "tailwindcss": "^3.0.0",
-    "autoprefixer": "^10.0.0",
-    "postcss": "^8.0.0"
+"dependencies": {
+    "inquirer": "^7.3.3",
+    "next": "9.5.5",
+    "next-absolute-url": "^1.2.2",
+    "react": "16.13.1",
+    "react-dom": "16.13.1"
   }
-}
